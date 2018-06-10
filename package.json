@@ -1,0 +1,22 @@
+{
+  "name": "wba2ss18ayyildizyildirimyildirim",
+  "version": "1.0.0",
+  "description": "WBA2 Projekt 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cengiz-a/WBA2SS18AyyildizYildirimYildirim.git"
+  },
+  "author": "Ayyildiz, Yildirim, Yildirim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cengiz-a/WBA2SS18AyyildizYildirimYildirim/issues"
+  },
+  "homepage": "https://github.com/cengiz-a/WBA2SS18AyyildizYildirimYildirim#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
